@@ -1,3 +1,5 @@
 Name: Bandi Harshavardhan
 Learning Objective: Learn Git and GitHub workflow
 Date: 24-06-2026
+Git Commands Practiced: clone, commit, push
+Git Commands Practiced: clone, commit, push, branch
