@@ -39,3 +39,5 @@ Learn Git and GitHub workflow.
 - Branch creation
 - Pull Request creation
 - Merge process
+Learning Git branching strategy.
+Learning pull request workflow.
