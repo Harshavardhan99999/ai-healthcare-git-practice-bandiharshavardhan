@@ -21,3 +21,21 @@ Key Learnings:
 - Commits
 - Pull Requests
 - Merge process
+# Bandi Harshavardhan
+
+## Objective
+Learn Git and GitHub workflow.
+
+## Git Commands Learned
+- git clone
+- git branch
+- git add
+- git commit
+- git push
+- git pull
+
+## Key Learnings
+- Repository creation
+- Branch creation
+- Pull Request creation
+- Merge process
